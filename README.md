@@ -7,7 +7,9 @@ To run:
 2. You can now use the script on the command line like so:
 ```python
 > python find_kevin.py "Demi Moore"
+```
 The tool will take multiple arguments as well if you want to search a few at once.
 i.e.
 ```python
 > python find_kevin.py "Demi Moore" "Ashton Kutcher" "Brad Pitt"
+```
